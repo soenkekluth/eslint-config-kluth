@@ -1,5 +1,7 @@
 # eslint-config-kluth
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/eslint-config-kluth.svg)](https://greenkeeper.io/)
+
 [ESLint](http://eslint.org) config using [Prettier](https://github.com/prettier/prettier) for code formatting and unification.
 
 ## Install
